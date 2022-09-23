@@ -20,21 +20,21 @@ For each test case, output the minimum cost required to make the cake special.
 Constraints
 1 ≤ T ≤ 100
 1 ≤ N, M ≤ 100
-each string consists only of letters 'R' and 'G' denoting red and green cherries respectively
+each string consists only of letters 'R' and 'G' denoting red and green cherries respectively<br/>
 
-#Input: 
+##Input: <br/>
 
-2
-4 5
-RGRGR
-GRGRG
-RGRGR
-GRGRG
-2 3
-RRG
-GGR
+2<br/>
+4 5<br/>
+RGRGR<br/>
+GRGRG<br/>
+RGRGR<br/>
+GRGRG<br/>
+2 3<br/>
+RRG<br/>
+GGR<br/>
 
-#output: 
+##output: <br/>
 
-0
-8
+0<br/>
+8<br/>
