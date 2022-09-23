@@ -21,7 +21,9 @@ Constraints
 1 ≤ T ≤ 100
 1 ≤ N, M ≤ 100
 each string consists only of letters 'R' and 'G' denoting red and green cherries respectively
-Input: 
+
+#Input: 
+
 2
 4 5
 RGRGR
@@ -32,6 +34,7 @@ GRGRG
 RRG
 GGR
 
-output: 
+#output: 
+
 0
 8
